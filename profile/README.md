@@ -4,4 +4,4 @@ This is the ID529-Coursework organization where assignments will be distributed,
 
 Enjoy your stay!
 
-![ID529 Hodu](id529_hodu.png)
+![ID529 Hodu](https://github.com/ID529-Coursework/.github/raw/main/profile/id529_hodu.png)
